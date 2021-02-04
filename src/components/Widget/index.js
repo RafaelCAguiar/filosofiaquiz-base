@@ -65,4 +65,4 @@ Widget.Topic = styled.a`
   }
 `;
 
-export default Widget; 
+export default Widget;
